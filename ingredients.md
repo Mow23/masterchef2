@@ -3,6 +3,6 @@ mayonaise
 carrot
 cucumber
 spinach
-green peas
+peas
 capsicum
-tomato sauce
+sauce
